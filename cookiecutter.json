@@ -1,0 +1,6 @@
+{
+    "project_name": "reproduce-issue-project",
+    "_copy_without_render": [
+        "copy_only_dir"
+    ]
+}
